@@ -3,6 +3,7 @@ package Calculadora;
 public class Main {
     public static void main(String[] args) {
         //Criando o objeto calculadora
+        //molde     nome do objeto
         Calculadora calculadora = new Calculadora();
         double resultado = 0;
         //Chamando os métodos
