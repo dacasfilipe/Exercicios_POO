@@ -8,7 +8,6 @@ public class Relogio {
         hora++;
         if(hora == 24){
             hora=0;
-
         }
     }
     public void adicionarSegundo(){

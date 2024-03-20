@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="contador resolvido">
-      <change afterPath="$PROJECT_DIR$/src/Relogio/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Relogio/Relogio.java" afterDir="false" />
+    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="relogio resolvido">
+      <change afterPath="$PROJECT_DIR$/src/Retangulo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Retangulo/Retangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Relogio/Relogio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Relogio/Relogio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +42,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Professor.SN-388330/IdeaProjects/POO",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Relogio.Main">
+  <component name="RunManager">
     <configuration name="Calculadora.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculadora.Main" />
       <module name="Poo" />
@@ -126,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710803867740</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="relogio resolvido">
+      <option name="closed" value="true" />
+      <created>1710808602789</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710808602789</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +155,7 @@
     <MESSAGE value="Second Commit" />
     <MESSAGE value="calculadora" />
     <MESSAGE value="contador resolvido" />
-    <option name="LAST_COMMIT_MESSAGE" value="contador resolvido" />
+    <MESSAGE value="relogio resolvido" />
+    <option name="LAST_COMMIT_MESSAGE" value="relogio resolvido" />
   </component>
 </project>
