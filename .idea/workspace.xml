@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="relogio resolvido">
-      <change afterPath="$PROJECT_DIR$/src/Retangulo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Retangulo/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Relogio/Relogio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Relogio/Relogio.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="Retangulo resolvido" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +34,7 @@
     "Application.Calculadora.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Relogio.Main.executor": "Run",
+    "Application.Retangulo.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -137,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710808602789</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Retangulo resolvido">
+      <option name="closed" value="true" />
+      <created>1710974459251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710974459251</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +160,7 @@
     <MESSAGE value="calculadora" />
     <MESSAGE value="contador resolvido" />
     <MESSAGE value="relogio resolvido" />
-    <option name="LAST_COMMIT_MESSAGE" value="relogio resolvido" />
+    <MESSAGE value="Retangulo resolvido" />
+    <option name="LAST_COMMIT_MESSAGE" value="Retangulo resolvido" />
   </component>
 </project>
