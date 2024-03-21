@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="Retangulo resolvido" />
+    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="Classe Carro add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +141,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710974459251</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Classe Carro add">
+      <option name="closed" value="true" />
+      <created>1710977772350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710977772350</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Classe Carro add">
+      <option name="closed" value="true" />
+      <created>1710978007436</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710978007436</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +177,7 @@
     <MESSAGE value="contador resolvido" />
     <MESSAGE value="relogio resolvido" />
     <MESSAGE value="Retangulo resolvido" />
-    <option name="LAST_COMMIT_MESSAGE" value="Retangulo resolvido" />
+    <MESSAGE value="Classe Carro add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classe Carro add" />
   </component>
 </project>
