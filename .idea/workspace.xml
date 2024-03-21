@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="Classe Carro add" />
+    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="Classe Carro add">
+      <change afterPath="$PROJECT_DIR$/src/ContaBancaria/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaBancaria/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaBancaria/ContaBancaria.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculadora.Main.executor": "Run",
+    "Application.ContaBancaria.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Relogio.Main.executor": "Run",
     "Application.Retangulo.Main.executor": "Run",
@@ -157,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710978007436</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Classe Carro add">
+      <option name="closed" value="true" />
+      <created>1710980028208</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710980028208</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
