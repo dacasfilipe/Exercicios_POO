@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="Classe Carro add">
-      <change afterPath="$PROJECT_DIR$/src/ContaBancaria/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaBancaria/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaBancaria/ContaBancaria.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="Conta bancaria Add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,22 +29,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Calculadora.Main.executor": "Run",
-    "Application.ContaBancaria.Main.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Relogio.Main.executor": "Run",
-    "Application.Retangulo.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Professor.SN-388330/IdeaProjects/POO",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculadora.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContaBancaria.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Relogio.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Retangulo.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Professor.SN-388330/IdeaProjects/POO&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.Calculadora.Main">
     <configuration name="Calculadora.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculadora.Main" />
       <module name="Poo" />
@@ -170,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710980028208</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Conta bancaria Add">
+      <option name="closed" value="true" />
+      <created>1710983151338</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710983151338</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +195,7 @@
     <MESSAGE value="relogio resolvido" />
     <MESSAGE value="Retangulo resolvido" />
     <MESSAGE value="Classe Carro add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classe Carro add" />
+    <MESSAGE value="Conta bancaria Add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conta bancaria Add" />
   </component>
 </project>
