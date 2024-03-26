@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="Conta bancaria Add" />
+    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="Adicionado interface Animal.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -174,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710983151338</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adicionado interface Animal.java">
+      <option name="closed" value="true" />
+      <created>1711406505855</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711406505855</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +205,7 @@
     <MESSAGE value="Retangulo resolvido" />
     <MESSAGE value="Classe Carro add" />
     <MESSAGE value="Conta bancaria Add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conta bancaria Add" />
+    <MESSAGE value="Adicionado interface Animal.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado interface Animal.java" />
   </component>
 </project>

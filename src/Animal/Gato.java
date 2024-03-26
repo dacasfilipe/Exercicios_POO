@@ -1,16 +1,10 @@
 package Animal;
 
-import java.sql.SQLOutput;
-
-public class Cachorro implements Animal{
+public class Gato implements Animal{
     private String nome;
     private int idade;
 
-    public Cachorro(){
-        //construtor padrão
-    }
-
-    public Cachorro(String nome, int idade) {
+    public Gato(String nome, int idade) {
         this.nome = nome;
         this.idade = idade;
     }
@@ -31,14 +25,22 @@ public class Cachorro implements Animal{
         this.idade = idade;
     }
 
-    @Override //sobrescrita de método
+    @Override
     public void emitirSom(String som) {
-        System.out.println("Cachorro faz "+som);
+        System.out.println("Gato faz "+som);
     }
 
     @Override
     public void exibirDetalhes() {
-        System.out.println("Nome:"+this.nome);
-        System.out.println("Idade:"+this.idade);
+        System.out.println("Nome: "+this.nome);
+        System.out.println("Idade: "+this.idade);
+    }
+
+    @Override
+    public String toString() {
+        return "Gato{" +
+                "nome='" + nome + '\'' +
+                ", idade=" + idade +
+                '}';
     }
 }
