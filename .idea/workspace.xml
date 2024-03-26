@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="add class gato and cachorro">
-      <change afterPath="$PROJECT_DIR$/src/Estudante/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estudante/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="add class Estudante" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711411843359</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add class Estudante">
+      <option name="closed" value="true" />
+      <created>1711414661159</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711414661159</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -219,7 +223,8 @@
     <MESSAGE value="Conta bancaria Add" />
     <MESSAGE value="Adicionado interface Animal.java" />
     <MESSAGE value="add class gato and cachorro" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class gato and cachorro" />
+    <MESSAGE value="add class Estudante" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class Estudante" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

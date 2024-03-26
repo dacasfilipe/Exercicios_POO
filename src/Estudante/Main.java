@@ -12,7 +12,9 @@ public class Main {
         System.out.println("Digite a nota 2:");
         double nota2 = leia.nextDouble();
         estudante.adicionarNota(nota2);
-        estudante.calculaMedia();
+        double mediaFinal = estudante.calculaMedia();
+        System.out.println("O estudante "+estudante.nome);
+        System.out.println("tem média:"+mediaFinal);
 
     }
 }
