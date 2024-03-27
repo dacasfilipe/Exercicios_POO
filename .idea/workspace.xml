@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="add class Estudante">
-      <change afterPath="$PROJECT_DIR$/src/Produto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Produto/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Estudante/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estudante/Main.java" afterDir="false" />
+    <list default="true" id="8ce20014-9fca-4663-b9cf-98688549d109" name="Changes" comment="add class Produto.java">
+      <change afterPath="$PROJECT_DIR$/src/Pessoa/Pessoa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711577438820</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add class Produto.java">
+      <option name="closed" value="true" />
+      <created>1711579449514</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711579449514</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,7 +265,8 @@
     <MESSAGE value="Adicionado interface Animal.java" />
     <MESSAGE value="add class gato and cachorro" />
     <MESSAGE value="add class Estudante" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class Estudante" />
+    <MESSAGE value="add class Produto.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class Produto.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
