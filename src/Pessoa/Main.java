@@ -10,6 +10,10 @@ public class Main {
         pessoa.nome = leia.next();
         System.out.println("Informe a idade:");
         pessoa.idade = leia.nextInt();
-        pessoa.imprimirNomePessoa();
+        System.out.println("Informe o  cpf:");
+        String cpf = leia.next();
+        System.out.println("Informe a altura:");
+        double altura = leia.nextDouble();
+        pessoa.imprimirNomePessoa(cpf,altura);
     }
 }
